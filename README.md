@@ -1,6 +1,6 @@
 # gatzzt
 
-Tools for data scicnce
+Tools for data science
 
 There are helper functions for:
 - Pandas
